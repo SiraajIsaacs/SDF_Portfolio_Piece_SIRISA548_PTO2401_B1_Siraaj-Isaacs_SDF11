@@ -1,19 +1,13 @@
+# Overview
+
+This is a front-end webpage, with no back-end functionality, specifically focused on the responsiveness and design of the website.
+The purpose was to create a responsive website for all screen sizes using HTML5, CSS3 with Tailwind and JavaScript for Cache Bank.
+This showcases my front-end ability and responsive design.
+
 # Installation
 
-```
-# Install dependencies
-npm install
+CDN used, no installation required to run.
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+# Presentation and Slides Links
+ - Presentation Link: https://www.loom.com/share/e4cd5a564d0b4c4b880d1c272f92362d?sid=0db1fefa-dd92-4ced-b6af-e0269cdd0e95
+ - Slides Link: https://docs.google.com/presentation/d/e/2PACX-1vSDdJqHVp03tJatSzuvs3m-yOmd5S2lFhHK8nvl75NNpZZF2SDsFrYBvNdxfBeYmIrw7whnQf3vq8do/pub?start=false&loop=false&delayms=3000
